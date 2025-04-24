@@ -1,0 +1,11 @@
+# spirit spawn command config
+command-name: spawn
+command-description: "Se téléporter au spawn"
+
+not-player: "§fVous devez etre un joueur pour faire cela"
+message: "§fVous avez été téléporter au spawn !"
+
+x: 0
+y: 100
+z: 0
+world: "world"
