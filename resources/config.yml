@@ -1,0 +1,8 @@
+command-name: spawn
+command-description: "Se téléporté au Spawn"
+not-player: "Vous devez être un joueur pour faire cette commande"
+message: "{PLAYER} vous avez été téléporté au spawn avec succès" # SUPPORT : {PLAYER}
+x: 0
+y: 70
+z: 0
+world: "world"
